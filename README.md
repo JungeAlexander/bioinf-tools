@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/JungeAlexander/bioinf-tools.svg)](https://travis-ci.org/JungeAlexander/bioinf-tools)
+
 # Bioinf-tools
 
 A collection of tools useful in everyday bioinformatics workflows.
