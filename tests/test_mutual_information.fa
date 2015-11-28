@@ -1,0 +1,10 @@
+> seq1
+ACAACUGU
+> seq2
+ACUACAGU
+> seq3
+AGC-CGCU
+> seq4
+AGG--CCU
+> structure
+(((..)))
