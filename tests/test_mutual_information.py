@@ -1,5 +1,7 @@
 import os
 import unittest
+import sys
+print(sys.path)
 import bitools.mutual_information as mi
 
 
