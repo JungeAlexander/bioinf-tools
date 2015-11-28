@@ -65,7 +65,7 @@ def mutual_information(col_i, col_j):
 
 def compute_mutual_information(fasta_file_path):
     seq_id_to_seq = {}
-    with open(fasta_file_path, 'rU') as fasta_file:
+    with open(fasta_file_path, 'r') as fasta_file:
         for record in SeqIO.parse(fasta_file, 'fasta'):
             seq_id_to_seq[record.id] = record.seq
 
