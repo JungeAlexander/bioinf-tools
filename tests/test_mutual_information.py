@@ -1,8 +1,6 @@
 import os
 import unittest
-import sys
-print(sys.path)
-import bitools.mutual_information as mi
+from ..bitools import mutual_information as mi
 
 
 class TestMutualInformation(unittest.TestCase):
